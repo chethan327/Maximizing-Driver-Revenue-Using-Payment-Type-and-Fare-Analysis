@@ -91,11 +91,6 @@ Fare amount differs across payment types
 * Matplotlib
 * SciPy
 
----
-
-## Visualizations
-
-
 
 
 ## 🧠 Learning Outcomes
