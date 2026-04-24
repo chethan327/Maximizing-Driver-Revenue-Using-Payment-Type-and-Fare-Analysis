@@ -72,6 +72,12 @@ Fare amount differs across payment types
 * Reject the null hypothesis (p < 0.05)
 * There is a **statistically significant difference in fare amounts across payment types**
 
+###  Final insights
+1. Customers tend to prefer card payments on longer, higher-value trips, while cash is chosen for shorter and cheaper rides — suggesting that payment behaviour is driven by trip value, not habit.
+
+2. Since card and flex payments are associated with higher-fare trips, encouraging drivers to accept digital payments and nudging cash customers toward card could directly increase per-trip earnings without needing to increase ride volume.
+
+
 ---
 
 ## 💡 Key Insights
